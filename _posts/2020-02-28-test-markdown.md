@@ -11,4 +11,4 @@ comments: true
 This blog post contains EcommD2 team's photo.
 
 
-![Team](https://raw.github.com/AnasZineddine/anaszineddine.github.io/blob/master/assets/img/SAP%20Team.jpg)
+![Team](https://i.ibb.co/ryvnbYM/SAP-Team.jpg)
