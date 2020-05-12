@@ -8,4 +8,4 @@ comments: true
 This blog post contains EcommD2 team's photo.
 
 
-![Team](https://i.ibb.co/XDF0nhg/Screenshot-62-1.png)
+![Team](https://i.ibb.co/5hVLrT6/With-logo.jpg)
